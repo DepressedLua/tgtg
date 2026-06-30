@@ -1,0 +1,6 @@
+python-telegram-bot==20.0
+sqlalchemy==2.0.23
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+apscheduler==3.10.4
+flask
